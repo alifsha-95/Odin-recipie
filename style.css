@@ -1,0 +1,40 @@
+body{
+    background-color: #fff5e6;
+    font-family: Arial,sans-serif;
+    color:black;
+    width: max-content;
+    align-items: center;
+    margin:0 auto;
+}
+
+.h1,
+.h2{
+    color: #2c3e50;;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.link{
+   
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.images{
+    width: 280px;
+    height: 250px;
+    border-radius: 2px;
+    display: block;
+    margin:0 auto
+}
+ul li {
+    line-height: 25px;
+    padding: 10px;
+}
+
+ol li {
+    line-height: 30px;
+    padding: 5px;
+}
